@@ -15,4 +15,5 @@ This is a zip archive file that conmtains all files that have been stated above.
   2. Use with administrator permissions if necessary.
 
 **Notes**
-All scripts require at leat Powershell version 7.x.x or higher.
+  - All scripts require at leat Powershell version 7.x.x or higher.
+    
